@@ -14,6 +14,8 @@ Mohith is among the Lead Contributors on the Salesforce StackExchange community,
 ## Recent blogs and Videos
 
 <!--START_SECTION:posts-->
+* [Develop Enterprise Applications with Apex](https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Developer/episode/episode-3)
+* [How to Work Within Platform Events Delivery Limits](https://developer.salesforce.com/blogs/2021/08/how-to-work-within-platform-events-delivery-limits)
 * [Level Up Your Developer Skills with Modern App Development On Salesforce](https://developer.salesforce.com/blogs/2021/02/level-up-your-developer-skills-with-modern-app-development-on-salesforce-video-series.html)
 * [Sandbox Source Tracking](https://developer.salesforce.com/blogs/2021/01/learn-moar-with-spring-21-sandbox-source-tracking.html)
 * [Implementing a JWT Server to Server OAuth between Salesforce and Heroku](https://www.youtube.com/watch?v=c5OZZsVkOKY)
