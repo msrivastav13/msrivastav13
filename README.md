@@ -6,7 +6,7 @@ Mohith is a Developer Advocate at Salesforce. Mohith has Over a decade of consul
 
 Mohith is among the Lead Contributors on the Salesforce StackExchange community, helping developers on the Salesforce Platform overcome complex technical challenges. 
 
-- 🔭 I’m currently working to educate developers how to build apps on Salesforce and Heroku
+- 🔭 I’m currently working to educate developers how to build apps on Salesforce, Heroku and Slack
 - 📄 I frequently blog at [https://medium.com/@mohitkumarsrivastav](https://medium.com/@mohitkumarsrivastav)
 - 📣 I tweet things at [@msrivastav13](https://twitter.com/msrivastav13)
 - 😄 Pronouns: he/him
@@ -14,6 +14,7 @@ Mohith is among the Lead Contributors on the Salesforce StackExchange community,
 ## Recent blogs and Videos
 
 <!--START_SECTION:posts-->
+* [Develop a Basic Slack App for Salesforce](https://www.youtube.com/watch?v=x0i7UNuMTAM)
 * [Develop Enterprise Applications with Apex](https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Developer/episode/episode-3)
 * [How to Work Within Platform Events Delivery Limits](https://developer.salesforce.com/blogs/2021/08/how-to-work-within-platform-events-delivery-limits)
 * [Level Up Your Developer Skills with Modern App Development On Salesforce](https://developer.salesforce.com/blogs/2021/02/level-up-your-developer-skills-with-modern-app-development-on-salesforce-video-series.html)
