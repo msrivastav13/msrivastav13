@@ -35,10 +35,9 @@ I'm passionate about inspiring and nurturing Salesforce developers, and I contin
 ## Recent blogs and Videos
 
 <!--START_SECTION:posts-->
-* [codeLive: Applying Fundamentals of Prompt Engineering with Prompt Builder]
-(https://www.youtube.com/watch?v=QuJvDqmxc7M)
-* [Build Custom Agent Actions Using Apex]([https://www.salesforce.com/plus/experience/Dreamforce_2021/series/Developer/episode/episode-3](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex))
-* [Prompt Engineering for Salesforce Developers]([https://developer.salesforce.com/blogs/2021/08/how-to-work-within-platform-events-delivery-limits](https://developer.salesforce.com/blogs/2023/12/prompt-engineering-for-salesforce-developers))
+* [codeLive: Applying Fundamentals of Prompt Engineering with Prompt Builder](https://www.youtube.com/watch?v=QuJvDqmxc7M)
+* [Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)
+* [Prompt Engineering for Salesforce Developers](https://developer.salesforce.com/blogs/2023/12/prompt-engineering-for-salesforce-developers)
 * [Level Up Your Developer Skills with Modern App Development On Salesforce](https://developer.salesforce.com/blogs/2021/02/level-up-your-developer-skills-with-modern-app-development-on-salesforce-video-series.html)
 * [Implementing a JWT Server to Server OAuth between Salesforce and Heroku](https://www.youtube.com/watch?v=c5OZZsVkOKY)
 * [Implementing a Node.js service on Heroku to work with Salesforce Composite Graph API](https://www.youtube.com/watch?v=6xf7MtyX8xg)
