@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Principal Developer Advocate, Salesforce</strong><br/>
-  Shaping how developers build AI agents on the Salesforce Platform
+  Building the agentic developer experience for the Salesforce Platform
 </p>
 
 <p align="center">
@@ -15,19 +15,56 @@
 
 ---
 
-I'm a developer advocate with over a decade on the Salesforce Platform. I started my career in enterprise consulting at Deloitte and PwC, transitioned into ISV product development at CodeScience, and found my calling in developer advocacy at Salesforce — where I now help shape the tools, languages, and patterns that developers use to build intelligent agents and enterprise applications.
+I'm a **Principal Developer Advocate at Salesforce** with 15 years of experience building enterprise-scale products on the Salesforce Platform. My career spans enterprise consulting at Deloitte and PwC, ISV product development at CodeScience, and developer advocacy at Salesforce.
 
-My current focus is **Agentforce** and **Agent Script** — the next generation of AI-powered development on Salesforce. I also contribute to the **Einstein AI Platform**, **Data Cloud**, and core platform capabilities like **GraphQL APIs**, **Lightning Web Components**, and **Apex**.
+Today, I focus on how developers build in the agentic era: **Agentforce, Agent Script, agentic development workflows, MCP, AI-assisted software development, Headless 360, Data 360, and the Salesforce Platform**. I build tools, reference implementations, technical content, and live demos that help developers move from AI-generated prototypes to reliable, governed, production-ready software.
+
+A recurring theme in my work is that AI can accelerate implementation, but great engineering still depends on **intent, architecture, context, testing, governance, and human judgment**.
+
+---
+
+## 2026 Highlights
+
+### Dreamforce Developer Keynote — Build the Agentic Enterprise
+
+At **Dreamforce 2026**, I delivered my first Salesforce Developer Keynote as part of **Developer Keynote: Build the Agentic Enterprise**, demonstrating how AI is transforming developer workflows and how developers can use agentic tools and platform capabilities to build the Agentic Enterprise.
+
+- **[Developer Keynote: Build the Agentic Enterprise](https://developer.salesforce.com/blogs/2026/08/developers-guide-dreamforce-2026)** — Dreamforce 2026
+- **[Build an Agentic Delivery Pipeline on AIforce](https://reg.salesforce.com/flow/plus/df26/sessioncatalog/page/catalog/session/1779839339355001GZt7)** — Orchestrating coding agents across planning, specification, implementation, review, testing, deployment, governance, and quality gates
+
+### AgentLens
+
+**[AgentLens](https://github.com/msrivastav13/AgentLens)** is my open-source debugging and visualization tool for Agentforce. It transforms Agentforce trace JSON into interactive agent graphs, finite state machines, and step-by-step execution inspectors so developers can understand and debug Agent Script orchestration faster.
+
+- **[AgentLens: Debug Agentforce with Interactive Visualizations](https://developer.salesforce.com/blogs/2026/05/agentlens-debug-agentforce-with-interactive-visualizations)**
+- Open source and MIT licensed
+- Runs offline with zero runtime dependencies
+- Includes interactive visualizations for agent graphs, state machines, handoffs, and execution traces
+
+### Agentic Development Lifecycle
+
+I have been developing and sharing a practical **agentic development lifecycle** for Salesforce development — using coding agents across design, implementation, testing, debugging, review, and deployment while keeping developers in control of architecture and quality.
+
+- **[Master the Agentic Development Lifecycle for Agentforce](https://developer.salesforce.com/blogs/2026/06/master-the-agentic-development-lifecycle-for-agentforce)**
+- **[Agent Development Lifecycle reference implementations](https://github.com/msrivastav13/agent-development-lifecylce)**
+
+### Writing on the Future of Software Development
+
+- **Fortune — [The supervisor class: how AI agents are remaking the developer's career](https://fortune.com/2026/03/31/fortune-com-2026-03-26-ai-agents-vibe-coding-developer-skills-supervisor-class/)** — bylined essay on how agentic development changes the role of software developers
+- **Forbes — [What's Keeping IT Leaders Up At Night](https://www.forbes.com/sites/alexanderpuutio/2026/02/18/whats-keeping-it-leaders-up-at-night-findings-from-rocket-softwares-report/)** — quoted on developer acceleration, enterprise visibility, governance, and guardrails
+- **Puck — [Tokenmaxxing Evangelists & A Meta Micro-Scandal](https://puck.news/newsletter_content/tokenmaxxing-evangelists-a-meta-micro-scandal/)** — quoted on hardening the engineering system around coding agents and keeping humans in the loop
 
 ---
 
 ## In the Press
 
-> *"Unreliable agents are not simply inefficient; they represent a significant source of operational, financial, legal and reputational risk."*
-> — quoted in **The New Stack**
+I've contributed perspectives on AI engineering, agentic software development, MCP, enterprise governance, developer tooling, and the future of software development to business and technology publications.
 
-| Publication | Article | Role |
+| Publication | Article | Role / Topic |
 |---|---|---|
+| **Fortune** | [The supervisor class: how AI agents are remaking the developer's career](https://fortune.com/2026/03/31/fortune-com-2026-03-26-ai-agents-vibe-coding-developer-skills-supervisor-class/) | Bylined contributor — agentic development and the evolving developer role |
+| **Forbes** | [What's Keeping IT Leaders Up At Night](https://www.forbes.com/sites/alexanderpuutio/2026/02/18/whats-keeping-it-leaders-up-at-night-findings-from-rocket-softwares-report/) | Quoted expert — AI acceleration, governance, and enterprise guardrails |
+| **Puck** | [Tokenmaxxing Evangelists & A Meta Micro-Scandal](https://puck.news/newsletter_content/tokenmaxxing-evangelists-a-meta-micro-scandal/) | Quoted expert — agentic software development, engineering systems, and human judgment |
 | **The New Stack** | [Avoiding the AI Agent Reliability Tax: A Developer's Guide](https://thenewstack.io/avoiding-the-ai-agent-reliability-tax-a-developers-guide/) | Primary expert source |
 | **The New Stack** | [How To Use Vibe Coding Safely in the Enterprise](https://thenewstack.io/how-to-use-vibe-coding-safely-in-the-enterprise/) | Primary expert source — introduced the "Red Zone / Green Zone" framework |
 | **The New Stack** | [MCP: A Practical Security Blueprint for Developers](https://thenewstack.io/mcp-a-practical-security-blueprint-for-developers/) | Bylined contributor |
@@ -37,48 +74,43 @@ My current focus is **Agentforce** and **Agent Script** — the next generation 
 
 ---
 
-## Podcasts
-
-| Show | Episode |
-|---|---|
-| **Code[ish] (Heroku)** | [Agentforce for Developers](https://open.spotify.com/episode/1PaATxgtAzKpNt3gDNsRpK) |
-| **Salesforce Developers Podcast** | [Agentforce Custom Actions](https://developer.salesforce.com/podcast/2024/04/episode-217-einstein-copilot-custom-actions-with-mohith-shrivastava) &#x2022; [Modern App Development](https://developer.salesforce.com/podcast/2021/01/episode-65-modern-app-development-with-mohith-shrivastava) |
-| **TAGS (Concretio)** | [Future, AI & Salesforce](https://concret.io/blog/future-ai-and-salesforce-with-mohith-shrivastava) |
-| **SalesforceWay** | [Create Salesforce Managed Packages](https://salesforceway.com/speaker/mohith-shrivastava/) |
-
----
-
 ## Key Contributions
 
 ### Agentforce & Agent Script
 
-The core of my current work — defining how developers build, test, and deploy autonomous AI agents on Salesforce.
+The core of my current work is helping developers build, test, debug, and deploy AI agents as real software systems — systems that can be versioned, governed, observed, and improved.
 
-- **Agent Script Language** — Helped shape and evangelize the Agent Script DSL, a hybrid reasoning language combining deterministic code with natural language prompts
-- **[Agent Script Decoded](https://developer.salesforce.com/blogs/2026/02/agent-script-decoded-intro-to-agent-script-language-fundamentals)** — Authored the foundational blog post on Agent Script language fundamentals
-- **[AgentLens](https://github.com/msrivastav13/AgentLens)** — Zero-dependency browser tool that transforms Agentforce trace JSON into interactive diagrams, finite state machines, and step-by-step inspectors
+- **Agent Script Language** — Developer education and reference implementations for deterministic, testable agent orchestration
+- **[Agent Script Decoded](https://developer.salesforce.com/blogs/2026/02/agent-script-decoded-intro-to-agent-script-language-fundamentals)** — Authored a foundational guide to Agent Script language fundamentals
 - **[Agent Development Lifecycle](https://github.com/msrivastav13/agent-development-lifecylce)** — Reference implementations demonstrating sub-agents, mutable variables, flow control, and deterministic branching
 - **[Agentforce Automation Transformation](https://github.com/msrivastav13/agentforce-automation-transformation)** — Modernizing monolithic triggers into Agentforce-orchestrated modular actions
-- **[Agentforce Deploy (MCP Server)](https://github.com/msrivastav13/agentforce-deploy)** — Python MCP server for deploying Agentforce agents
-- **[Agentforce for Mobile](https://github.com/msrivastav13/MessagingCoreExample)** — Coral Cloud iOS app showcasing Agentforce with native mobile via Core SDK
+- **[Agentforce Deploy](https://github.com/msrivastav13/agentforce-deploy)** — Python MCP server for deploying Agentforce agents
+- **[Agentforce for Mobile](https://github.com/msrivastav13/MessagingCoreExample)** — Coral Cloud iOS example showcasing Agentforce in a native mobile experience
+- **[Migrate Legacy Agents to the New Agentforce Builder](https://developer.salesforce.com/blogs/2026/08/migrate-legacy-agents-to-the-new-agentforce-builder)** — Migration, testing, and stabilization patterns for the new agent architecture
 
-### Data Cloud & Agentforce 360 Platform
+### MCP & Headless Development
 
-- Contributor to **[trailheadapps/coral-cloud](https://github.com/trailheadapps/coral-cloud)** — the flagship sample app demonstrating Agentforce, Data Cloud, and the Salesforce Platform for personalized experiences
-- Built demos showcasing Data Cloud integration with Agentforce agents for real-time data grounding and personalization
+- **[Expose Custom Apex as a Hosted MCP Tool for Agents](https://developer.salesforce.com/blogs/2026/05/expose-custom-apex-as-a-hosted-mcp-tool-for-agents)** — Using Salesforce-hosted MCP capabilities to expose custom Apex to compatible agents
+- Developer education around MCP security, tool orchestration, agent gateways, authentication, and enterprise governance
+
+### Data 360 & Agentforce
+
+- Contributor to **[trailheadapps/coral-cloud](https://github.com/trailheadapps/coral-cloud)** — flagship sample app demonstrating Agentforce, Data 360, and the Salesforce Platform
+- Built demos showcasing data grounding and personalization for AI agents
 
 ### Einstein AI Platform & LLMs
 
-- **[salesforce/einstein-platform](https://github.com/salesforce/einstein-platform)** — Contributor to the official LLM Open Connector framework enabling Bring Your Own LLM (BYOLLM) integration
-- **[OpenLLMConnectorDemo](https://github.com/msrivastav13/OpenLLMConnectorDemo)** — Node.js reference implementation connecting Hugging Face models to Einstein AI Platform
-- **[Agentforce for Developers](https://developer.salesforce.com/blogs/2024/09/introducing-agentforce-for-developers)** — Pivotal role in shipping AI-powered developer tools powered by Salesforce's proprietary LLMs
-- **[Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)** — Guide to building custom Agentforce actions with Apex, Flows, and Prompt Templates
+- **[salesforce/einstein-platform](https://github.com/salesforce/einstein-platform)** — Contributor to the official LLM Open Connector framework for Bring Your Own LLM integrations
+- **[OpenLLMConnectorDemo](https://github.com/msrivastav13/OpenLLMConnectorDemo)** — Node.js reference implementation connecting Hugging Face models to the Einstein AI Platform
+- **[Introducing Agentforce for Developers](https://developer.salesforce.com/blogs/2024/09/introducing-agentforce-for-developers)** — Developer guidance for AI-powered development on Salesforce
+- **[Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)** — Custom agent actions with Apex, Flow, and Prompt Templates
 
-### Salesforce Platform & Developer Tooling
+### Open Source & Developer Tools
 
+- **[AgentLens](https://github.com/msrivastav13/AgentLens)** — Open-source Agentforce debugging workbench that transforms trace JSON into interactive diagrams, finite state machines, and step-by-step execution inspectors
 - **[Spring '26 Platform Demos](https://github.com/msrivastav13/spring26-demos)** — TypeScript in LWC, GraphQL mutations, dynamic event binding, Flow navigation, and enhanced PDF rendering
 - **[DX-Code-Companion](https://github.com/msrivastav13/DX-Code-Companion)** — VS Code extension for Salesforce metadata operations via Tooling API
-- **[mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin)** — SF CLI plugin for faster deployments via Tooling API
+- **[mo-dx-plugin](https://github.com/msrivastav13/mo-dx-plugin)** — Salesforce CLI plugin for faster deployments via Tooling API
 - **[node-sf-bulk2](https://github.com/msrivastav13/node-sf-bulk2)** — Node.js SDK for Salesforce Bulk API 2.0
 - **[salesforce-slack-starter-kit](https://github.com/msrivastav13/salesforce-slack-starter-kit)** — Scaffold for building Slack apps integrated with Salesforce
 
@@ -86,12 +118,13 @@ The core of my current work — defining how developers build, test, and deploy 
 
 ## Speaking & Conferences
 
-Regular speaker at Dreamforce, TrailblazerDX, and Dreamin community conferences across the US.
+Regular speaker at Dreamforce, TrailblazerDX, Dreamin conferences, developer meetups, workshops, and community events.
 
 ### Dreamforce
 
 | Year | Talk |
 |---|---|
+| **2026** | **Developer Keynote: [Build the Agentic Enterprise](https://developer.salesforce.com/blogs/2026/08/developers-guide-dreamforce-2026)** &#x2022; [Build an Agentic Delivery Pipeline on AIforce](https://reg.salesforce.com/flow/plus/df26/sessioncatalog/page/catalog/session/1779839339355001GZt7) |
 | **2025** | Build Agents with Agentforce and Data Cloud |
 | **2024** | [Dive Deep into Advanced Apex Best Practices](https://github.com/msrivastav13/dreamforce-24-apex-project) (w/ Daniel Ballinger) &#x2022; Unlock Developer Productivity with Modern Tooling |
 | **2023** | [Experience Cloud Sites with LWR: What Developers Should Know](https://github.com/msrivastav13/df23-lwr-cms-demo) (w/ Geno Mathew) |
@@ -126,6 +159,17 @@ Regular speaker at Dreamforce, TrailblazerDX, and Dreamin community conferences 
 
 ---
 
+## Podcasts
+
+| Show | Episode |
+|---|---|
+| **Code[ish] (Heroku)** | [Agentforce for Developers](https://open.spotify.com/episode/1PaATxgtAzKpNt3gDNsRpK) |
+| **Salesforce Developers Podcast** | [Agentforce Custom Actions](https://developer.salesforce.com/podcast/2024/04/episode-217-einstein-copilot-custom-actions-with-mohith-shrivastava) &#x2022; [Modern App Development](https://developer.salesforce.com/podcast/2021/01/episode-65-modern-app-development-with-mohith-shrivastava) |
+| **TAGS (Concretio)** | [Future, AI & Salesforce](https://concret.io/blog/future-ai-and-salesforce-with-mohith-shrivastava) |
+| **SalesforceWay** | [Create Salesforce Managed Packages](https://salesforceway.com/speaker/mohith-shrivastava/) |
+
+---
+
 ## Books
 
 | Title | Publisher |
@@ -138,20 +182,29 @@ Regular speaker at Dreamforce, TrailblazerDX, and Dreamin community conferences 
 ## Recent Posts & Videos
 
 <!--START_SECTION:posts-->
+* [Migrate Legacy Agents to the New Agentforce Builder](https://developer.salesforce.com/blogs/2026/08/migrate-legacy-agents-to-the-new-agentforce-builder)
+* [Master the Agentic Development Lifecycle for Agentforce](https://developer.salesforce.com/blogs/2026/06/master-the-agentic-development-lifecycle-for-agentforce)
+* [AgentLens: Debug Agentforce with Interactive Visualizations](https://developer.salesforce.com/blogs/2026/05/agentlens-debug-agentforce-with-interactive-visualizations)
+* [Expose Custom Apex as a Hosted MCP Tool for Agents](https://developer.salesforce.com/blogs/2026/05/expose-custom-apex-as-a-hosted-mcp-tool-for-agents)
 * [Agent Script Decoded: Intro to Agent Script Language Fundamentals](https://developer.salesforce.com/blogs/2026/02/agent-script-decoded-intro-to-agent-script-language-fundamentals)
 * [MCP: A Practical Security Blueprint for Developers](https://thenewstack.io/mcp-a-practical-security-blueprint-for-developers/)
-* [Introducing Agentforce for Developers](https://developer.salesforce.com/blogs/2024/09/introducing-agentforce-for-developers)
-* [Build Custom Agent Actions Using Apex](https://developer.salesforce.com/blogs/2024/03/build-custom-copilot-actions-using-apex)
-* [Prompt Engineering for Salesforce Developers](https://developer.salesforce.com/blogs/2023/12/prompt-engineering-for-salesforce-developers)
 <!--END_SECTION:posts-->
 
 ---
 
 ## Community
 
-- **Salesforce Stack Exchange** — [Top contributor](https://salesforce.stackexchange.com/users/4665/mohith-shrivastava) with thousands of answers across Apex, LWC, and platform development
+- **Salesforce Stack Exchange** — [Moderator and long-time contributor](https://salesforce.stackexchange.com/users/645/mohith-shrivastava) with ~93K reputation, 2,400+ answers, and 8.5M+ people reached
 - **Google Scholar** — Research cited in [scholarly articles](https://scholar.google.com/citations?user=tJ0L4DcAAAAJ&hl=en) on Salesforce development, AI, and cloud computing
-- **Open Source** — Maintainer of developer productivity tools, CLI plugins, and reference implementations
+- **Open Source** — Maintainer of AgentLens, developer productivity tools, CLI plugins, SDKs, sample applications, and reference implementations
+
+---
+
+## What I Believe
+
+Software development is changing quickly. Coding agents will write more of the implementation, but great engineering increasingly depends on a developer's ability to provide the right context, define intent, design architecture, build tests, evaluate generated output, apply governance and security, and exercise human judgment.
+
+**The developer isn't disappearing. The developer is moving up the abstraction stack.**
 
 ---
 
